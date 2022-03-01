@@ -1,3 +1,5 @@
+# Required nh-context for wasabi scripts using nh-context. I may update to latest version soon when I update my personal server.
+
 # nh-context
 Simple, minimalistic event firing context menu
 
